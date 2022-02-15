@@ -1,3 +1,2 @@
-Se trata de un programa escrito en C en el que creamos una matriz esparsa.Podemos buscar un elemento en ella e imprimirlo por pantalla.
-La definición de matriz dispersa está contenida en el programa como comentario.
-Si detectas algún fallo en el código, por favor comuníquemelo via email.
+Program written in C in which we create a sparse matrix. We can search for an element in it and print it on the screen.
+The sparse matrix definition is contained in the program as a comment.
